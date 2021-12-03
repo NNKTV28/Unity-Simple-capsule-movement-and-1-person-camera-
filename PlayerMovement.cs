@@ -1,4 +1,4 @@
-// Some stupid rigidbody based movement by Dani
+// Movement by Impact
 
 using System;
 using UnityEngine;
