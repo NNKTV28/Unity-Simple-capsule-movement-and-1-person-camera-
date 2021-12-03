@@ -1,4 +1,4 @@
-// Movement by Impact
+// Some stupid rigidbody based movement by Impact
 
 using System;
 using UnityEngine;
